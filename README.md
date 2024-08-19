@@ -63,8 +63,8 @@ The final model achieved competitive results on the test set, demonstrating stro
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/house-price-prediction.git
-   cd house-price-prediction
+   git clone https://github.com/umair98392/House_Price_Prediction.git
+   cd House_Price_Prediction
    ```
 2. **Install Dependencies**:
    Ensure you have the necessary Python packages installed. You can install them using:
@@ -81,5 +81,3 @@ The final model achieved competitive results on the test set, demonstrating stro
 
 - [Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 - [Kaggle Learn](https://www.kaggle.com/learn/overview)
-- [Comprehensive Data Exploration with Python](https://www.kaggle.com/code)
-- [A Study on Regression Applied to the Ames Dataset](https://www.kaggle.com/code)
